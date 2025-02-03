@@ -1,8 +1,8 @@
-# Proyecto de Encuestas de evaluacion de peliculas en JavaScript
+# Proyecto de Encuestas de Evaluación de Películas en JavaScript
 
 ## Descripción
 
-Este proyecto consiste en el desarrollo de un programa en JavaScript que permite a los usuarios crear encuestas, votar y ver los resultados aplicando comandos en la terminal. El programa se ejecutará en el navegador y se visualizará a través del mismo navegador, enlazado a un archivo HTML.
+Este proyecto consiste en el desarrollo de un programa en JavaScript que permite a los usuarios crear encuestas, votar y ver los resultados aplicando comandos en la terminal. El programa se ejecutará[...]
 
 ## Objetivos de Aprendizaje obtenidos
 
@@ -14,16 +14,15 @@ Este proyecto consiste en el desarrollo de un programa en JavaScript que permite
 - Programación orientada a objetos (POO)
 - Programación funcional (PF)
 
-## ¿Qué se construyo en este proyecto?
+## ¿Qué se construyó en este proyecto?
 
-Programa de encuestas de 8 peliculas desarrollado en JavaScript, el cual cuenta con un menu principal que entrega las siguientes opciones:
+Programa de encuestas de 8 películas desarrollado en JavaScript, el cual cuenta con un menú principal que entrega las siguientes opciones:
 
-
-M E N U - C R E A C I O N  D E   E N C U E S T A S:
+M E N U - C R E A C I Ó N  D E   E N C U E S T A S:
         ---------------------------------------------------   
-        Elija una opción numerica : 1,2,3 o 4. 
+        Elija una opción numérica: 1, 2, 3 o 4. 
 
-        Se sugiere crear una encuesta y despues votar:
+        Se sugiere crear una encuesta y después votar:
 
         O P C I O N E S :
 
@@ -32,22 +31,22 @@ M E N U - C R E A C I O N  D E   E N C U E S T A S:
         3. Ver resultados
         4. Salir
 
-Permite a los usuarios lo siguiente:
+Permite a los usuarios realizar lo siguiente:
 
-- Crear encuestas con opciones de respuesta con la escala de likert igual al de netflix: "1": "No es para mí", "2": "Me gusta", "3": "Me encanta". 
+- Crear encuestas con opciones de respuesta con la escala de likert igual al de Netflix: "1": "No es para mí", "2": "Me gusta", "3": "Me encanta".
 - Votar en las encuestas.
-- Ver los resultados de las encuestas en tiempo real escogiendo la opcion 3.
+- Ver los resultados de las encuestas en tiempo real escogiendo la opción 3.
 - Almacenar los datos de las encuestas y los votos en un arreglo.
 - Implementar la solución utilizando programación orientada a objetos (POO) y programación funcional (PF).
 
 ## Requisitos y Entregables
 
-- Creacion de dos carpetas en el repositorio: `poo` y `pf`.
-- SOLUCION POO: En la carpeta `poo`, se cuenta con archivo `index.js` y un archivo `index.html`
-- SOLUCION PF : En la carpeta `pf`, agregar un archivo `index.js` y un archivo `index.html` para la solución PF.
+- Creación de dos carpetas en el repositorio: `poo` y `pf`.
+- SOLUCIÓN POO: En la carpeta `poo`, se cuenta con archivo `index.js` y un archivo `index.html`
+- SOLUCIÓN PF: En la carpeta `pf`, agregar un archivo `index.js` y un archivo `index.html` para la solución PF.
 
-## Estructura del Proyecto encuestas peliculas
+## Estructura del Proyecto encuestas películas
 
--readme.md
--Carpeta POO (index.html , indexpoo.js)
--PF(index.html , indexpf.js)
+- readme.md
+- poo (index.html, index.js)
+- pf (index.html, index.js)
